@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Adds sleek top and bottom navigation buttons with hover scrolling
-// @author       You
+// @author       R3dHack3r
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
