@@ -1,11 +1,17 @@
 // ==UserScript==
 // @name         Top/Bottom Navigation Buttons
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Adds sleek top and bottom navigation buttons with hover scrolling
-// @author       R3dHack3r
+// @namespace    https://openuserjs.org/users/YourUsername
+// @version      1.0.0
+// @description  Adds sleek top and bottom navigation buttons with hover scrolling functionality for all websites
+// @author       YourUsername
+// @license      MIT
 // @match        *://*/*
 // @grant        none
+// @homepageURL  https://openuserjs.org/scripts/YourUsername/Top_Bottom_Navigation_Buttons
+// @supportURL   https://openuserjs.org/scripts/YourUsername/Top_Bottom_Navigation_Buttons/issues
+// @icon         data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiNGM0Y0RjYiLz4KPHA+YXRoIGQ9Ik0zMiAxNkwyMCAyOEgyNlYzMkgzOFYyOEg0NEwzMiAxNloiIGZpbGw9IiMzNzQxNTEiLz4KPHA+YXRoIGQ9Ik0zMiA0OEw0NCAzNkgzOFYzMkgyNlYzNkgyMEwzMiA0OFoiIGZpbGw9IiMzNzQxNTEiLz4KPC9zdmc+
+// @updateURL    https://openuserjs.org/install/YourUsername/Top_Bottom_Navigation_Buttons.meta.js
+// @downloadURL  https://openuserjs.org/install/YourUsername/Top_Bottom_Navigation_Buttons.user.js
 // ==/UserScript==
 
 (function() {
