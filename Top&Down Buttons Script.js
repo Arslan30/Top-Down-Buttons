@@ -3,7 +3,7 @@
 // @namespace    https://openuserjs.org/users/YourUsername
 // @version      1.0.0
 // @description  Adds sleek top and bottom navigation buttons with hover scrolling functionality for all websites
-// @author       YourUsername
+// @author       R3dHack3r
 // @license      MIT
 // @match        *://*/*
 // @grant        none
